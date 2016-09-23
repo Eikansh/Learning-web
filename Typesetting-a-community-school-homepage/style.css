@@ -118,12 +118,12 @@ a[href*=http]{
 }
 
 section ul,aside ul{
-  list-style: square inside;
+  list-style-type: square inside;
 }
 
 nav li{
   font-size: 3rem;
-  list-style: none;
+  list-style-type: none;
 }
 nav a{
   outline: none;
