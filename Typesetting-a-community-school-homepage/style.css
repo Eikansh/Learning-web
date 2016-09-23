@@ -128,7 +128,7 @@ nav li{
 nav a{
   outline: none;
   text-decoration:none;
-  display: block;
+  display: inline-block;
   margin-bottom: 1rem;
   text-align: center;
   border: .1rem solid #a66;
